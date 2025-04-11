@@ -533,7 +533,7 @@ Allows returning of output for display on the Shopping Cart View Cart page.
 
 | Variable | Type | Notes |
 | -------- | ---- | ----- |
-| cartData | array |  |
+| cart | array |  |
 
 #### Response
 
